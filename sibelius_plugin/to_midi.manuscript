@@ -1,0 +1,230 @@
+// Parameters: score, path
+
+
+// arguments are: score
+
+file_name = score.FileName;
+barnumLast = score.SystemStaff.BarCount;
+
+// Score.SaveCopyAs then Sibelius.Open
+// path = "/Users/pedroramonedafranco/Desktop/sibToMIDI"
+
+Sibelius.CreateFolder(path & "/temp");
+
+score.SaveCopyAs(path & "/temp/voice.sib");
+score.SaveCopyAs(path & "/temp/right_hand.sib");
+score.SaveCopyAs(path & "/temp/left_hand.sib");
+
+
+Sibelius.Open(path & "/temp/voice.sib");
+score = Sibelius.ActiveScore;
+selection = score.Selection;
+
+
+voice = null;
+right_hand = null;
+left_hand = null;
+arrStaffNum = CreateArray();
+for each Staff s in score
+{
+	if (s.IsSystemStaff = False)
+	{
+		trace("Run staff name, number = " & s.InstrumentName & ", " & s.StaffNum);
+		if (s.InstrumentName = "Voice" or s.InstrumentName = "Treble Solo" or s.InstrumentName = "Treble" or s.InstrumentName = "Oboe" or s.InstrumentName = "[Trumpet in Bb]") {
+			voice = s;
+		}
+		if (s.InstrumentName = "Piano (a)") {
+			right_hand = s;
+		}
+		if (s.InstrumentName = "Piano (b)") {
+			left_hand = s;
+		}
+	}
+}
+
+if (arrStaffNum[0].InstrumentName = "Voice") {
+	trace("VOICE ERROR");
+	return False;
+}
+selection = score.Selection;
+
+selection.Clear();
+selection.SelectPassage(1, barnumLast, right_hand.StaffNum);
+selection.Delete();
+
+selection.Clear();
+selection.SelectPassage(1, barnumLast, left_hand.StaffNum);
+selection.Delete();
+
+// REMOVE ARTICULATIONS
+selection.SelectPassage(1, barnumLast, voice.StaffNum);
+for each Bar b in selection
+{
+	for each NoteRest nr in b
+	{
+		nr.Articulations = null;
+	}
+	counter = 0;
+	for each Slur slr in b
+	{
+		name = "tuplet" & counter;
+		@name = slr;
+		counter = counter + 1;
+	}
+	// Delete objects in reverse order
+	while(counter > 0)
+	{
+		counter = counter - 1;
+		name = "tuplet" & counter;
+		slr = @name;
+		slr.Delete();
+	}
+}
+// END ARTICULATTION
+
+
+ok = score.SaveAs(file_name & "_sing.mid", "Midi");
+if (ok = False)
+{
+	MyMessageBox(_msgCannotExport);
+	return False;
+}
+score.Save(path & "/temp/voice.sib");
+
+Sibelius.Open(path & "/temp/right_hand.sib");
+score = Sibelius.ActiveScore;
+selection = score.Selection;
+voice = null;
+right_hand = null;
+left_hand = null;
+arrStaffNum = CreateArray();
+for each Staff s in score
+{
+	if (s.IsSystemStaff = False)
+	{
+		trace("Run staff name, number = " & s.InstrumentName & ", " & s.StaffNum);
+		if (s.InstrumentName = "Voice" or s.InstrumentName = "Treble Solo" or s.InstrumentName = "Treble" or s.InstrumentName = "Oboe" or s.InstrumentName = "[Trumpet in Bb]") {
+			voice = s;
+		}
+		if (s.InstrumentName = "Piano (a)") {
+			right_hand = s;
+		}
+		if (s.InstrumentName = "Piano (b)") {
+			left_hand = s;
+		}
+	}
+}
+
+
+
+selection.Clear();
+selection.SelectPassage(1, barnumLast, voice.StaffNum);
+selection.Delete();
+selection.Clear();
+selection.SelectPassage(1, barnumLast, left_hand.StaffNum);
+selection.Delete();
+
+// REMOVE ARTICULATIONS
+selection.SelectPassage(1, barnumLast, right_hand.StaffNum);
+for each Bar b in selection
+{
+	for each NoteRest nr in b
+	{
+		nr.Articulations = null;
+	}
+	counter = 0;
+	for each Slur slr in b
+	{
+		name = "tuplet" & counter;
+		@name = slr;
+		counter = counter + 1;
+	}
+	// Delete objects in reverse order
+	while(counter > 0)
+	{
+		counter = counter - 1;
+		name = "tuplet" & counter;
+		slr = @name;
+		slr.Delete();
+	}
+}
+// END ARTICULATTION
+
+
+ok = score.SaveAs(file_name & "_rh.mid", "Midi");
+if (ok = False)
+{
+	MyMessageBox(_msgCannotExport);
+	return False;
+}
+score.Save(path & "/temp/right_hand.sib");
+
+
+Sibelius.Open(path & "/temp/left_hand.sib");
+score = Sibelius.ActiveScore;
+selection = score.Selection;
+voice = null;
+right_hand = null;
+left_hand = null;
+arrStaffNum = CreateArray();
+for each Staff s in score
+{
+	if (s.IsSystemStaff = False)
+	{
+		trace("Run staff name, number = " & s.InstrumentName & ", " & s.StaffNum);
+		if (s.InstrumentName = "Voice" or s.InstrumentName = "Treble Solo" or s.InstrumentName = "Treble" or s.InstrumentName = "Oboe" or s.InstrumentName = "[Trumpet in Bb]") {
+			voice = s;
+		}
+		if (s.InstrumentName = "Piano (a)") {
+			right_hand = s;
+		}
+		if (s.InstrumentName = "Piano (b)") {
+			left_hand = s;
+		}
+	}
+}
+
+selection.Clear();
+selection.SelectPassage(1, barnumLast, voice.StaffNum);
+selection.Delete();
+selection.Clear();
+selection.SelectPassage(1, barnumLast, right_hand.StaffNum);
+selection.Delete();
+
+// REMOVE ARTICULATIONS
+selection.SelectPassage(1, barnumLast, left_hand.StaffNum);
+for each Bar b in selection
+{
+	for each NoteRest nr in b
+	{
+		nr.Articulations = null;
+	}
+	counter = 0;
+	for each Slur slr in b
+	{
+		name = "tuplet" & counter;
+		@name = slr;
+		counter = counter + 1;
+	}
+	// Delete objects in reverse order
+	while(counter > 0)
+	{
+		counter = counter - 1;
+		name = "tuplet" & counter;
+		slr = @name;
+		slr.Delete();
+	}
+}
+// END ARTICULATTION
+
+ok = score.SaveAs(file_name & "_lh.mid", "Midi");
+if (ok = False)
+{
+	MyMessageBox(_msgCannotExport);
+	return False;
+}
+score.Save(path & "/temp/left_hand.sib");
+Sibelius.CloseAllWindows(False);
+
+
+return True;

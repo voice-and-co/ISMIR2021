@@ -1,0 +1,15 @@
+{
+    "../voice_and_co/example/The Skylark_excerpt": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -0.06060606060606366,
+            "max": 1,
+            "mean": 0.7857142857142857,
+            "med": 1.0,
+            "min": 0,
+            "skew": -1.3926212476455815,
+            "stdev": 0.410325903324145
+        }
+    }
+}

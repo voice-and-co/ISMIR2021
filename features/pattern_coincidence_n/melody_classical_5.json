@@ -1,0 +1,1471 @@
+{
+    "../voice_and_co/MIDIs/1 Herbstlied Am": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 211.4121073724216,
+            "max": 1,
+            "mean": 0.0046209126841537905,
+            "med": 0.0,
+            "min": 0,
+            "skew": 14.608631262798758,
+            "stdev": 0.06782005492565765
+        }
+    },
+    "../voice_and_co/MIDIs/10 If there are angels G": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 9.07126484712113,
+            "max": 1,
+            "mean": 0.07145762367176775,
+            "med": 0.0,
+            "min": 0,
+            "skew": 3.327351025533846,
+            "stdev": 0.2575877164985779
+        }
+    },
+    "../voice_and_co/MIDIs/2 Vilanelle des petits canards F": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.53981552769405,
+            "max": 1,
+            "mean": 0.3393948106087831,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.6783689794691018,
+            "stdev": 0.4735039314943556
+        }
+    },
+    "../voice_and_co/MIDIs/3 Nuit d_etoiles C": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 0.35633042149713035,
+            "max": 1,
+            "mean": 0.1955718090392336,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.5350343388657888,
+            "stdev": 0.3966402356649602
+        }
+    },
+    "../voice_and_co/MIDIs/4 Arie aus dem Speigel von Arcadien E": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.638019874568921,
+            "max": 1,
+            "mean": 0.6440358255669354,
+            "med": 1.0,
+            "min": 0,
+            "skew": -0.6016478417073223,
+            "stdev": 0.4788044287109836
+        }
+    },
+    "../voice_and_co/MIDIs/4 Der genugsame Liebhaber E": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.9181435762043932,
+            "max": 1,
+            "mean": 0.42919441334197656,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.28610561650482735,
+            "stdev": 0.4949611791827852
+        }
+    },
+    "../voice_and_co/MIDIs/5 Spring C": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/6 Del cabello mas sutil E": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/7 A Bay in Anglesey A": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 38.15357040259301,
+            "max": 1,
+            "mean": 0.02318580669954525,
+            "med": 0.0,
+            "min": 0,
+            "skew": 6.336684496058884,
+            "stdev": 0.15049327249826336
+        }
+    },
+    "../voice_and_co/MIDIs/8 Il est des Mots d_Amour F": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 75.44076293403768,
+            "max": 1,
+            "mean": 0.012433454141883573,
+            "med": 0.0,
+            "min": 0,
+            "skew": 8.80004334841811,
+            "stdev": 0.11081003275870487
+        }
+    },
+    "../voice_and_co/MIDIs/9 Dirge Bflat": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/A Fly": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 54.13657533720509,
+            "max": 1,
+            "mean": 0.016914930092574956,
+            "med": 0.0,
+            "min": 0,
+            "skew": 7.492434540068073,
+            "stdev": 0.12895276357076746
+        }
+    },
+    "../voice_and_co/MIDIs/Abdul, the Magician": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.3188859770966517,
+            "max": 1,
+            "mean": 0.6907239819004525,
+            "med": 1.0,
+            "min": 0,
+            "skew": -0.8252963243001559,
+            "stdev": 0.46219515653891896
+        }
+    },
+    "../voice_and_co/MIDIs/Albatross": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 1,
+            "mean": 1.0,
+            "med": 1.0,
+            "min": 1,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/Albatross Flying So High": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 1,
+            "mean": 1.0,
+            "med": 1.0,
+            "min": 1,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/Ariette": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 1.4654504142294122,
+            "max": 1,
+            "mean": 0.15933945155794912,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.8615720276769874,
+            "stdev": 0.36599233698967126
+        }
+    },
+    "../voice_and_co/MIDIs/Bound for South Australia": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 1,
+            "mean": 1.0,
+            "med": 1.0,
+            "min": 1,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/By The Sea": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.9612863132342129,
+            "max": 1,
+            "mean": 0.4510468393504228,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.1967579395241439,
+            "stdev": 0.4975978175820475
+        }
+    },
+    "../voice_and_co/MIDIs/Cakes": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.9712629868215852,
+            "max": 1,
+            "mean": 0.5422285684065788,
+            "med": 1.0,
+            "min": 0,
+            "skew": -0.16951994920485292,
+            "stdev": 0.4982135566304183
+        }
+    },
+    "../voice_and_co/MIDIs/Cantique": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 4.132949625401887,
+            "max": 1,
+            "mean": 0.1110115007300018,
+            "med": 0.0,
+            "min": 0,
+            "skew": 2.476479280228666,
+            "stdev": 0.314146378995007
+        }
+    },
+    "../voice_and_co/MIDIs/Career Paths": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 229.9646702672807,
+            "max": 1,
+            "mean": 0.004256036408073828,
+            "med": 0.0,
+            "min": 0,
+            "skew": 15.230386412277296,
+            "stdev": 0.06509932843099825
+        }
+    },
+    "../voice_and_co/MIDIs/Chanson Triste (D)": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 9.442139769207056,
+            "max": 1,
+            "mean": 0.06960235228227388,
+            "med": 0.0,
+            "min": 0,
+            "skew": 3.382623208281858,
+            "stdev": 0.25447566649691306
+        }
+    },
+    "../voice_and_co/MIDIs/Chocolate": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 0.8888997955861155,
+            "max": 1,
+            "mean": 0.1762115822009681,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.6996763796635275,
+            "stdev": 0.38100007939526676
+        }
+    },
+    "../voice_and_co/MIDIs/Close Thine Eyes E flat": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.2329950872641309,
+            "max": 1,
+            "mean": 0.29943909649056316,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.8757881665881705,
+            "stdev": 0.4580123622605381
+        }
+    },
+    "../voice_and_co/MIDIs/Come Live With Me and Be My Love": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 15.506820383784138,
+            "max": 1,
+            "mean": 0.04888679672925711,
+            "med": 0.0,
+            "min": 0,
+            "skew": 4.1841152450409576,
+            "stdev": 0.21563134705976633
+        }
+    },
+    "../voice_and_co/MIDIs/Come Sleep": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -0.72068439162988,
+            "max": 1,
+            "mean": 0.2538668891598742,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.1310683482310515,
+            "stdev": 0.43522234748248195
+        }
+    },
+    "../voice_and_co/MIDIs/Cool Cat": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.7359072689151585,
+            "max": 1,
+            "mean": 0.37556719022687607,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.5138995340383574,
+            "stdev": 0.4842690118642381
+        }
+    },
+    "../voice_and_co/MIDIs/Crabbed Age and Youth (Eb)": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 63.11633138380212,
+            "max": 1,
+            "mean": 0.014683979778062134,
+            "med": 0.0,
+            "min": 0,
+            "skew": 8.069469089339282,
+            "stdev": 0.12028449823622162
+        }
+    },
+    "../voice_and_co/MIDIs/Cradle Song": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 1,
+            "mean": 1.0,
+            "med": 1.0,
+            "min": 1,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/Das Veilchen (transposed)": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -0.47519284177773446,
+            "max": 1,
+            "mean": 0.23732490165079598,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.2348308217007968,
+            "stdev": 0.4254430545998324
+        }
+    },
+    "../voice_and_co/MIDIs/Der Blumenstrauss": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 16.23225139426213,
+            "max": 1,
+            "mean": 0.04720832614570755,
+            "med": 0.0,
+            "min": 0,
+            "skew": 4.269924050174913,
+            "stdev": 0.21208418160774753
+        }
+    },
+    "../voice_and_co/MIDIs/Dinah\u2019s Song": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/Earth Folk": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -0.5009254076972351,
+            "max": 1,
+            "mean": 0.23894211169995924,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.2243670169939922,
+            "stdev": 0.4264373095266447
+        }
+    },
+    "../voice_and_co/MIDIs/El Vito": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 81.39088983555105,
+            "max": 1,
+            "mean": 0.011576864128089519,
+            "med": 0.0,
+            "min": 0,
+            "skew": 9.13186124705972,
+            "stdev": 0.10697121269317868
+        }
+    },
+    "../voice_and_co/MIDIs/Elephant": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 1,
+            "mean": 1.0,
+            "med": 1.0,
+            "min": 1,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/Evening in Autumn": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 10.142465230764692,
+            "max": 1,
+            "mean": 0.9336491593186922,
+            "med": 1.0,
+            "min": 0,
+            "skew": -3.4846040278293744,
+            "stdev": 0.24889436840192178
+        }
+    },
+    "../voice_and_co/MIDIs/Fair, If You Expect Admiring": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 14.209952958765466,
+            "max": 1,
+            "mean": 0.052206041121854084,
+            "med": 0.0,
+            "min": 0,
+            "skew": 4.026158585893691,
+            "stdev": 0.22244228553096046
+        }
+    },
+    "../voice_and_co/MIDIs/Farewell, Lad": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.9551073021645011,
+            "max": 1,
+            "mean": 0.5526749769607605,
+            "med": 1.0,
+            "min": 0,
+            "skew": -0.21187896978109458,
+            "stdev": 0.4972176050806963
+        }
+    },
+    "../voice_and_co/MIDIs/Fear No More the Heat o\u2019 the Sun": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 3.0350328074984914,
+            "max": 1,
+            "mean": 0.12674443650874628,
+            "med": 0.0,
+            "min": 0,
+            "skew": 2.243887877657548,
+            "stdev": 0.3326864654939041
+        }
+    },
+    "../voice_and_co/MIDIs/Fishing": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 163.17264872050526,
+            "max": 1,
+            "mean": 0.005946481665014866,
+            "med": 0.0,
+            "min": 0,
+            "skew": 12.851951163948032,
+            "stdev": 0.07688381507718323
+        }
+    },
+    "../voice_and_co/MIDIs/Food": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 1,
+            "mean": 1.0,
+            "med": 1.0,
+            "min": 1,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/From a Railway Carriage": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 1.2466059427192908,
+            "max": 1,
+            "mean": 0.16532947032167,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.8018340497169238,
+            "stdev": 0.3714776393873877
+        }
+    },
+    "../voice_and_co/MIDIs/Gaeaf (transposed)": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 1.4966913396158619,
+            "max": 1,
+            "mean": 0.15852112791980114,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.8699442076211423,
+            "stdev": 0.3652289417924533
+        }
+    },
+    "../voice_and_co/MIDIs/Ghosts in the Belfry": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.9187241602563048,
+            "max": 1,
+            "mean": 0.5705590561737498,
+            "med": 1.0,
+            "min": 0,
+            "skew": -0.28508917858048427,
+            "stdev": 0.49499638341291907
+        }
+    },
+    "../voice_and_co/MIDIs/Grizelda": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 31.37520459348429,
+            "max": 1,
+            "mean": 0.02751265242349105,
+            "med": 0.0,
+            "min": 0,
+            "skew": 5.77712771137044,
+            "stdev": 0.16357171632074793
+        }
+    },
+    "../voice_and_co/MIDIs/Hop Bird": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/I Know Where I_m Going": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.95116341991342,
+            "max": 1,
+            "mean": 0.5549132947976878,
+            "med": 1.0,
+            "min": 0,
+            "skew": -0.22098999996963653,
+            "stdev": 0.49697538173883643
+        }
+    },
+    "../voice_and_co/MIDIs/If There Were Dreams to Sell": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.837985269590799,
+            "max": 1,
+            "mean": 0.40135037263743195,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.4025105345319557,
+            "stdev": 0.4901716546488857
+        }
+    },
+    "../voice_and_co/MIDIs/Irish Blessing": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 9.321567369575561,
+            "max": 1,
+            "mean": 0.07019478133039324,
+            "med": 0.0,
+            "min": 0,
+            "skew": 3.364753686315769,
+            "stdev": 0.25547499682820535
+        }
+    },
+    "../voice_and_co/MIDIs/Jeannie with the Light Brown Hair": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 1,
+            "mean": 1.0,
+            "med": 1.0,
+            "min": 1,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/Jeune Fillette": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -0.7943408935877643,
+            "max": 1,
+            "mean": 0.25937297189356495,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.0980250937078968,
+            "stdev": 0.4382905809444973
+        }
+    },
+    "../voice_and_co/MIDIs/Jewels (Am)": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.5591192798317381,
+            "max": 1,
+            "mean": 0.3424581272169114,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.6639884940029168,
+            "stdev": 0.4745319360380259
+        }
+    },
+    "../voice_and_co/MIDIs/Korimako, Bellbird": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.369125392135187,
+            "max": 1,
+            "mean": 0.6845482866043614,
+            "med": 1.0,
+            "min": 0,
+            "skew": -0.7942761534030933,
+            "stdev": 0.46469552387708074
+        }
+    },
+    "../voice_and_co/MIDIs/Love Me Sweet": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.9797402415412257,
+            "max": 1,
+            "mean": 0.46450558043648255,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.14233677830685432,
+            "stdev": 0.49873855493619995
+        }
+    },
+    "../voice_and_co/MIDIs/Love Song (F#m)": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 2.0418433783557877,
+            "max": 1,
+            "mean": 0.14552799699361144,
+            "med": 0.0,
+            "min": 0,
+            "skew": 2.0104336294331597,
+            "stdev": 0.3526323851897878
+        }
+    },
+    "../voice_and_co/MIDIs/Lullaby": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 361.19916682383655,
+            "max": 1,
+            "mean": 0.0027307748573657774,
+            "med": 0.0,
+            "min": 0,
+            "skew": 19.057784940119266,
+            "stdev": 0.05218541679477282
+        }
+    },
+    "../voice_and_co/MIDIs/Lurking In The Pond": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/Moreton Bay": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.2557497745360462,
+            "max": 1,
+            "mean": 0.3019632920175785,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.8626993830205009,
+            "stdev": 0.4591094230044566
+        }
+    },
+    "../voice_and_co/MIDIs/My Father_s Garden": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 1,
+            "mean": 1.0,
+            "med": 1.0,
+            "min": 1,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/My Lagan Love": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 10.720952376317323,
+            "max": 1,
+            "mean": 0.06388671875,
+            "med": 0.0,
+            "min": 0,
+            "skew": 3.5666444140560634,
+            "stdev": 0.24455102927069922
+        }
+    },
+    "../voice_and_co/MIDIs/My Mother Said": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -0.3641841964278938,
+            "max": 1,
+            "mean": 0.7693759436336185,
+            "med": 1.0,
+            "min": 0,
+            "skew": -1.278990149912072,
+            "stdev": 0.4212322411586007
+        }
+    },
+    "../voice_and_co/MIDIs/My Uncle Rumbold": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 2.607791505429585,
+            "max": 1,
+            "mean": 0.1341773893896649,
+            "med": 0.0,
+            "min": 0,
+            "skew": 2.146576694513752,
+            "stdev": 0.34084280477404705
+        }
+    },
+    "../voice_and_co/MIDIs/Nachtwanderer (Eb)": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 0.41516002193360846,
+            "max": 1,
+            "mean": 0.19321140328039574,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.554078512152332,
+            "stdev": 0.3948173716071977
+        }
+    },
+    "../voice_and_co/MIDIs/Nine Lives": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.056388732018043,
+            "max": 1,
+            "mean": 0.7184461559662527,
+            "med": 1.0,
+            "min": 0,
+            "skew": -0.9713965554715326,
+            "stdev": 0.4497569087224427
+        }
+    },
+    "../voice_and_co/MIDIs/Now Sleeps the Crimson Petal (original)": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -0.2266654716874381,
+            "max": 1,
+            "mean": 0.7771098594215933,
+            "med": 1.0,
+            "min": 0,
+            "skew": -1.3316660723742133,
+            "stdev": 0.41618520614186283
+        }
+    },
+    "../voice_and_co/MIDIs/O Cessate di Piagarmi": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 37.28007103459203,
+            "max": 1,
+            "mean": 0.02366537237076977,
+            "med": 0.0,
+            "min": 0,
+            "skew": 6.267381513406694,
+            "stdev": 0.1520043503368327
+        }
+    },
+    "../voice_and_co/MIDIs/Oats and Beans and Barley Grow": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 1,
+            "mean": 1.0,
+            "med": 1.0,
+            "min": 1,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/On the Back of an Eagle": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/One More Step Along The World I Go": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 1,
+            "mean": 1.0,
+            "med": 1.0,
+            "min": 1,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/Over the Hills and Far Away": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 86.1669360601945,
+            "max": 1,
+            "mean": 0.9890297763214133,
+            "med": 1.0,
+            "min": 0,
+            "skew": -9.389725025803179,
+            "stdev": 0.10416274704052533
+        }
+    },
+    "../voice_and_co/MIDIs/Over the Mountains (transposed)": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 12.654905253214011,
+            "max": 1,
+            "mean": 0.05683547514372675,
+            "med": 0.0,
+            "min": 0,
+            "skew": 3.8281725735935686,
+            "stdev": 0.23152797651453175
+        }
+    },
+    "../voice_and_co/MIDIs/Peacocks": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 4.623850640714639,
+            "max": 1,
+            "mean": 0.10519350225201186,
+            "med": 0.0,
+            "min": 0,
+            "skew": 2.57368425427725,
+            "stdev": 0.3068025901715431
+        }
+    },
+    "../voice_and_co/MIDIs/Pigs Could Fly": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/Quand je fus pris au pavillon (transposed)": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -0.4472507979266007,
+            "max": 1,
+            "mean": 0.23559684534153189,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.2460935767723866,
+            "stdev": 0.42437126647152984
+        }
+    },
+    "../voice_and_co/MIDIs/Rocking in Rhythm": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 6.311424937747757,
+            "max": 1,
+            "mean": 0.910821900243621,
+            "med": 1.0,
+            "min": 0,
+            "skew": -2.8829542031998625,
+            "stdev": 0.2850006425961533
+        }
+    },
+    "../voice_and_co/MIDIs/Schilflied (Dm)": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 26.89890124677253,
+            "max": 1,
+            "mean": 0.03138091365261559,
+            "med": 0.0,
+            "min": 0,
+            "skew": 5.375769828291805,
+            "stdev": 0.17434492224020373
+        }
+    },
+    "../voice_and_co/MIDIs/Schneeglo\u0308kchen": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 33.02813732654005,
+            "max": 1,
+            "mean": 0.026315020028654133,
+            "med": 0.0,
+            "min": 0,
+            "skew": 5.918457343475584,
+            "stdev": 0.16007042121999202
+        }
+    },
+    "../voice_and_co/MIDIs/Seagull": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 22.996980201841914,
+            "max": 1,
+            "mean": 0.0357655223034064,
+            "med": 0.0,
+            "min": 0,
+            "skew": 4.999698011064461,
+            "stdev": 0.18570500725013026
+        }
+    },
+    "../voice_and_co/MIDIs/She Moved through the Fair (original)": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.6618060134940615,
+            "max": 1,
+            "mean": 0.36039580752101263,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.5815444836862765,
+            "stdev": 0.4801152668290083
+        }
+    },
+    "../voice_and_co/MIDIs/Shiny": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 3.592925939302403,
+            "max": 1,
+            "mean": 0.11821927987570087,
+            "med": 0.0,
+            "min": 0,
+            "skew": 2.3649367727916966,
+            "stdev": 0.32286759165542084
+        }
+    },
+    "../voice_and_co/MIDIs/Stop all the Clocks (C)": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 37.44789155120611,
+            "max": 1,
+            "mean": 0.0235717017208413,
+            "med": 0.0,
+            "min": 0,
+            "skew": 6.280755651289593,
+            "stdev": 0.15171050259894658
+        }
+    },
+    "../voice_and_co/MIDIs/Summer (original)": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 4.175030627130124,
+            "max": 1,
+            "mean": 0.11048723057417134,
+            "med": 0.0,
+            "min": 0,
+            "skew": 2.484960890462891,
+            "stdev": 0.3134960963939125
+        }
+    },
+    "../voice_and_co/MIDIs/Sur le pont d_Avignon": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 1,
+            "mean": 1.0,
+            "med": 1.0,
+            "min": 1,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/Sur le pont d_Avignon (JL 2)": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.8485366450396215,
+            "max": 1,
+            "mean": 0.5955043572577328,
+            "med": 1.0,
+            "min": 0,
+            "skew": -0.38918293251423414,
+            "stdev": 0.49079417044702905
+        }
+    },
+    "../voice_and_co/MIDIs/T_intendo, si, mio cor (transposed)": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/The Apple Tree": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/The Bouquet of Rosemary": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.7953983182344124,
+            "max": 1,
+            "mean": 0.6102966124395078,
+            "med": 1.0,
+            "min": 0,
+            "skew": -0.45232917412608614,
+            "stdev": 0.48768294750213376
+        }
+    },
+    "../voice_and_co/MIDIs/The Cat and the Fiddle": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 3.3744694617792055,
+            "max": 1,
+            "mean": 0.12141408287452912,
+            "med": 0.0,
+            "min": 0,
+            "skew": 2.318290202235088,
+            "stdev": 0.3266078739930593
+        }
+    },
+    "../voice_and_co/MIDIs/The Cherry Tree (original)": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 163.02007202601678,
+            "max": 1,
+            "mean": 0.005951881968312516,
+            "med": 0.0,
+            "min": 0,
+            "skew": 12.84601385745853,
+            "stdev": 0.07691850927668706
+        }
+    },
+    "../voice_and_co/MIDIs/The Fairy Lough": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 5.040933211558535,
+            "max": 1,
+            "mean": 0.10071570790507453,
+            "med": 0.0,
+            "min": 0,
+            "skew": 2.6534756851266854,
+            "stdev": 0.30095191324571147
+        }
+    },
+    "../voice_and_co/MIDIs/The Garta\u0301n Mothers Lullaby": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 13.090274257296091,
+            "max": 1,
+            "mean": 0.05545831947116428,
+            "med": 0.0,
+            "min": 0,
+            "skew": 3.8846202204715046,
+            "stdev": 0.22887265951309818
+        }
+    },
+    "../voice_and_co/MIDIs/The Grandfather Clock": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.6445225232086897,
+            "max": 1,
+            "mean": 0.3571572631472798,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.596219319371077,
+            "stdev": 0.4791617185548367
+        }
+    },
+    "../voice_and_co/MIDIs/The Lamb (original)": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 0.06331066468572555,
+            "max": 1,
+            "mean": 0.20832620960848008,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.4364228711231686,
+            "stdev": 0.4061113147877607
+        }
+    },
+    "../voice_and_co/MIDIs/The Lark in the Clear Air": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 0.1328181936000723,
+            "max": 1,
+            "mean": 0.20513930994658583,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.4604171300009023,
+            "stdev": 0.40380338465796006
+        }
+    },
+    "../voice_and_co/MIDIs/The Leprehaun": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 14.157406080388277,
+            "max": 1,
+            "mean": 0.05235008957740542,
+            "med": 0.0,
+            "min": 0,
+            "skew": 4.0196276046902994,
+            "stdev": 0.2227320311464946
+        }
+    },
+    "../voice_and_co/MIDIs/The Magic Night": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.65805402593169,
+            "max": 1,
+            "mean": 0.3596842105263158,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.5847614676672112,
+            "stdev": 0.4799077820002264
+        }
+    },
+    "../voice_and_co/MIDIs/The Man in the Moon": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 6.3897157155663304,
+            "max": 1,
+            "mean": 0.08855389431195683,
+            "med": 0.0,
+            "min": 0,
+            "skew": 2.8965005982333807,
+            "stdev": 0.28409875415802804
+        }
+    },
+    "../voice_and_co/MIDIs/The Nightingale (Em)": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/The Overlander": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.9460015527615486,
+            "max": 1,
+            "mean": 0.5577057182705718,
+            "med": 1.0,
+            "min": 0,
+            "skew": -0.23237565973752772,
+            "stdev": 0.4966588870430865
+        }
+    },
+    "../voice_and_co/MIDIs/The Pheonix": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 6.404935436199766,
+            "max": 1,
+            "mean": 0.08843357249482352,
+            "med": 0.0,
+            "min": 0,
+            "skew": 2.8991266678432264,
+            "stdev": 0.28392441908125177
+        }
+    },
+    "../voice_and_co/MIDIs/The Skylark": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.9934046300361075,
+            "max": 1,
+            "mean": 0.47971374674371947,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.08121188314460491,
+            "stdev": 0.49958829843063984
+        }
+    },
+    "../voice_and_co/MIDIs/The Spanish Main": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -0.9912526463805738,
+            "max": 1,
+            "mean": 0.7243864592265915,
+            "med": 1.0,
+            "min": 0,
+            "skew": -1.0043641538901251,
+            "stdev": 0.4468229144927027
+        }
+    },
+    "../voice_and_co/MIDIs/The World\u2019s End": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/Twinkle Twinkle Little Star": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 1,
+            "mean": 1.0,
+            "med": 1.0,
+            "min": 1,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/Two Little Men in a Flying Saucer": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 1,
+            "mean": 1.0,
+            "med": 1.0,
+            "min": 1,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/Vieni, vieni o mio diletto": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 3.7932077278576894,
+            "max": 1,
+            "mean": 0.11543737667950765,
+            "med": 0.0,
+            "min": 0,
+            "skew": 2.40690833391255,
+            "stdev": 0.3195490396556703
+        }
+    },
+    "../voice_and_co/MIDIs/Villanelle": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 54.980501299208,
+            "max": 1,
+            "mean": 0.016676800138973335,
+            "med": 0.0,
+            "min": 0,
+            "skew": 7.548542991810272,
+            "stdev": 0.1280573483877363
+        }
+    },
+    "../voice_and_co/MIDIs/Waldeinsamkeit": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 1.8405617346923613,
+            "max": 1,
+            "mean": 0.8499401633799886,
+            "med": 1.0,
+            "min": 0,
+            "skew": -1.9597351185025906,
+            "stdev": 0.3571300632172919
+        }
+    },
+    "../voice_and_co/MIDIs/We Can Make A Difference": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -0.6004809704038947,
+            "max": 1,
+            "mean": 0.7545551397273745,
+            "med": 1.0,
+            "min": 0,
+            "skew": -1.1830126920689,
+            "stdev": 0.430350648702168
+        }
+    },
+    "../voice_and_co/MIDIs/Westering Home": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 0.9844296830997274,
+            "max": 1,
+            "mean": 0.1731599975662685,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.7275501969840785,
+            "stdev": 0.37838553461928004
+        }
+    },
+    "../voice_and_co/MIDIs/Whales - Swimming Free": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 0.60359052114481,
+            "max": 1,
+            "mean": 0.1860458143439674,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.6135645388842705,
+            "stdev": 0.3891436358326542
+        }
+    },
+    "../voice_and_co/MIDIs/When I Was One-and-Twenty": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.0162094795099261,
+            "max": 1,
+            "mean": 0.27785249943958756,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.9918621479268549,
+            "stdev": 0.44794027279846305
+        }
+    },
+    "../voice_and_co/MIDIs/Winter": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -0.2361382909328129,
+            "max": 1,
+            "mean": 0.776595744680851,
+            "med": 1.0,
+            "min": 0,
+            "skew": -1.3281045550208712,
+            "stdev": 0.4165270627755722
+        }
+    }
+}

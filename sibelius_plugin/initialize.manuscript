@@ -1,0 +1,6 @@
+AddToPluginsMenu(_PluginMenuName,"Run");
+EpsFormat = True;
+BmpFormat = False;
+EmfFormat = False;
+PictFormat = False;
+TiffFormat = False;

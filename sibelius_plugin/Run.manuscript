@@ -1,0 +1,72 @@
+// ACK to XXXXXXX (Blinded submission) for teaching us how to structure a sibelius plugin
+
+
+
+// update zg_VersionNumber when changes are made.
+dlg_Version = BuildVersionText(zg_VersionNumber);
+
+folder = Sibelius.SelectFolder(_FolderCaption);
+
+if (IsObject(folder))
+{
+	result = Sibelius.ShowDialog(Main,Self);
+
+	if (result = True)
+	{
+		numfiles = folder.FileCount;
+		nameFolder = folder.Name;
+		Sibelius.CreateProgressDialog(_ExtractCaption, 1 ,numfiles);
+		filenum = 0;
+		continue = True;
+
+		for each SIB file in folder
+		{
+			filenum = filenum + 1;
+			shortname = file.NameNoPath;
+
+			// filter out files in subfolders. Only do main folder
+          // so we don"t try to extract from parts
+			//trace("folder name, file path = " & nameFolder & ", " & file.Path);
+
+			if (nameFolder != file.Path)  // i.e., in a subfolder
+			{
+				continue = Sibelius.UpdateProgressDialog(filenum, "");
+				if (continue = False)
+				{
+					Sibelius.DestroyProgressDialog();
+					return False;
+				}
+			}
+			else
+			{
+				filename = file.NameWithExt;
+				filenamenoext = file.Name;
+				Sibelius.Open(filename);
+				score = Sibelius.ActiveScore;
+
+				continue = Sibelius.UpdateProgressDialog(filenum, "");
+				if (continue = False)
+				{
+					Sibelius.DestroyProgressDialog();
+					return False;
+				}
+
+				if (IsObject(score))
+				{
+					if (g_fShowDialog)
+					{
+						to_midi(score, filenamenoext);
+					}
+					else
+					{
+						to_midi(score, filenamenoext);
+					}
+
+					Sibelius.Close();
+				}
+			}
+		}
+	}
+}
+
+Sibelius.DestroyProgressDialog();

@@ -1,0 +1,10 @@
+
+// parameters: versionNumber
+
+// this assumes that versionNumber is of the form
+// Major version (2 digits) & Minor Version (2 digts) & Patch (2 digits)
+// it builds up text version of the version number so only a single value needs to be updated
+
+str = "" & versionNumber;
+vText = _VersionText & Substring(str, 0, 2) & "." & Substring(str, 2, 2) & "." & Substring(str, 4, 2);
+return vText;

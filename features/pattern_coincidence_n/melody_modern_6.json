@@ -1,0 +1,1263 @@
+{
+    "../voice_and_co/MIDIs/VOCALS Gr 0 Angels": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 17.144532091989667,
+            "max": 1,
+            "mean": 0.045254741072549926,
+            "med": 0.0,
+            "min": 0,
+            "skew": 4.3754465020143565,
+            "stdev": 0.20786233300674367
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 0 Fade Into You TECH FOCUS": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 0 Here Comes the Sun TECH FOCUS": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 0 Hold On, We_re Going Home TECH FOCUS": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 55.22566131913984,
+            "max": 1,
+            "mean": 0.016608875549986888,
+            "med": 0.0,
+            "min": 0,
+            "skew": 7.564764458933261,
+            "stdev": 0.12780070736483398
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 0 Knockin_ On Heaven_s Door": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 0 Songbird": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 0 The Last Time": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 0 Three Little Birds": {
+        "grade": "0",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 7.187309113290812,
+            "max": 1,
+            "mean": 0.08266378244746601,
+            "med": 0.0,
+            "min": 0,
+            "skew": 3.0310574249411397,
+            "stdev": 0.2753733493258634
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 1 A Night Like This": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 1 How Long Will I Love You TECH FOCUS": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 14.338163540956426,
+            "max": 1,
+            "mean": 0.051857888385650926,
+            "med": 0.0,
+            "min": 0,
+            "skew": 4.042049423368847,
+            "stdev": 0.22174004554394836
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 1 Imagine": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 116.93215972791785,
+            "max": 1,
+            "mean": 0.008201838044043697,
+            "med": 0.0,
+            "min": 0,
+            "skew": 10.905602217572296,
+            "stdev": 0.09019183941323612
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 1 Just Looking TECH FOCUS": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 1 Octopus_s Garden": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 42.53813516268374,
+            "max": 1,
+            "mean": 0.021045260209346897,
+            "med": 0.0,
+            "min": 0,
+            "skew": 6.673689771234784,
+            "stdev": 0.1435352125161898
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 1 The Tide Is High TECH FOCUS": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 1 Valerie": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 29.854460552206476,
+            "max": 1,
+            "mean": 0.028715088906157153,
+            "med": 0.0,
+            "min": 0,
+            "skew": 5.643975598122875,
+            "stdev": 0.16700458848567198
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 1 You_ve Got A Friend": {
+        "grade": "1",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 44.5926942099014,
+            "max": 1,
+            "mean": 0.020172634882964266,
+            "med": 0.0,
+            "min": 0,
+            "skew": 6.8258841339346965,
+            "stdev": 0.14059053910147323
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 2 (Something Inside) So Strong": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 1.0,
+            "kurtosis": -1.0614913010259541,
+            "max": 1,
+            "mean": 0.2820327504634184,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.968766586425257,
+            "stdev": 0.44998919779196656
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 2 Bad Blood": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 21.22603068582901,
+            "max": 1,
+            "mean": 0.038187868621827825,
+            "med": 0.0,
+            "min": 0,
+            "skew": 4.819339237471153,
+            "stdev": 0.19164956381883533
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 2 Dancing In The Moonlight": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 39.47129173508484,
+            "max": 1,
+            "mean": 0.022498060512024826,
+            "med": 0.0,
+            "min": 0,
+            "skew": 6.439820784391817,
+            "stdev": 0.1482966546663211
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 2 Get Lucky TECH FOCUS": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 2 Let It Be": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 195.9533407752415,
+            "max": 1,
+            "mean": 0.004976403400848376,
+            "med": 0.0,
+            "min": 0,
+            "skew": 14.069589218425726,
+            "stdev": 0.07036788194936949
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 2 Summer of _69": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 2 Under The Bridge": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 2 Uptown Funk": {
+        "grade": "2",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 24.70513252171717,
+            "max": 1,
+            "mean": 0.03370379060986796,
+            "med": 0.0,
+            "min": 0,
+            "skew": 5.167700893213262,
+            "stdev": 0.1804656341478735
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 3 Adventure Of A Lifetime": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 3 Brass In Pocket TECH FOCUS": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 0.9982253135472319,
+            "max": 1,
+            "mean": 0.17272850740187423,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.7315384239303593,
+            "stdev": 0.37801239415208987
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 3 Don_t Know Why": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 155.70350955510347,
+            "max": 1,
+            "mean": 0.006222881936515186,
+            "med": 0.0,
+            "min": 0,
+            "skew": 12.558005795312548,
+            "stdev": 0.07863941554283946
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 3 Free Fallin_ TECH FOCUS": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 0.15760503901472367,
+            "max": 1,
+            "mean": 0.20402838401326537,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.468878837418091,
+            "stdev": 0.40298982931359556
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 3 Perfect Day TECH FOCUS": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 34.288705034621636,
+            "max": 1,
+            "mean": 0.025469550369948777,
+            "med": 0.0,
+            "min": 0,
+            "skew": 6.024010710035438,
+            "stdev": 0.15754634992249544
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 3 Royals TECH FOCUS": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 34.39265230288812,
+            "max": 1,
+            "mean": 0.02540225231304452,
+            "med": 0.0,
+            "min": 0,
+            "skew": 6.032632286397718,
+            "stdev": 0.15734350285432486
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 3 Upside Down": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 106.24146610963311,
+            "max": 1,
+            "mean": 0.008990186767964545,
+            "med": 0.0,
+            "min": 0,
+            "skew": 10.403915902660556,
+            "stdev": 0.09438942371813515
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 3 You Know I_m No Good": {
+        "grade": "3",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 4 Don_t Speak": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 4 I Wish": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 10.18477606857013,
+            "max": 1,
+            "mean": 0.0661641541038526,
+            "med": 0.0,
+            "min": 0,
+            "skew": 3.4906698595785532,
+            "stdev": 0.24856882108497483
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 4 It_s Too Late": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 4 Only Girl (In The World)": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 232.05502446751967,
+            "max": 1,
+            "mean": 0.004218505274978575,
+            "med": 0.0,
+            "min": 0,
+            "skew": 15.298856966045529,
+            "stdev": 0.06481288057341343
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 4 Son Of A Preacher Man TECH FOCUS": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 14.650435121615931,
+            "max": 1,
+            "mean": 0.051029098651525905,
+            "med": 0.0,
+            "min": 0,
+            "skew": 4.080494470234694,
+            "stdev": 0.2200571056392834
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 4 The First Time Ever I Saw Your Face TECH FOCUS": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 69.26761939156297,
+            "max": 1,
+            "mean": 0.013467293715262932,
+            "med": 0.0,
+            "min": 0,
+            "skew": 8.44201512623396,
+            "stdev": 0.1152645900320206
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 4 Torn": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 4 Video Games": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 1.1037592488579975,
+            "max": 1,
+            "mean": 0.1695011897321184,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.761748917654839,
+            "stdev": 0.37519399836819733
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 4 You Do Something To Me TECH FOCUS": {
+        "grade": "4",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 16.718708192392395,
+            "max": 1,
+            "mean": 0.04614604462474645,
+            "med": 0.0,
+            "min": 0,
+            "skew": 4.326512243411821,
+            "stdev": 0.2098013040718226
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 5 Everytime": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 114.54000479918079,
+            "max": 1,
+            "mean": 0.008365990799113989,
+            "med": 0.0,
+            "min": 0,
+            "skew": 10.795369599934075,
+            "stdev": 0.09108238576729934
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 5 Let_s Dance": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 5 Rather Be": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 5 Reach Out I_ll Be There": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 152.3597291035973,
+            "max": 1,
+            "mean": 0.006355124348599754,
+            "med": 0.0,
+            "min": 0,
+            "skew": 12.424159090401135,
+            "stdev": 0.0794653178632892
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 5 Shake It Off TECH FOCUS": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 31.870193154722806,
+            "max": 1,
+            "mean": 0.027142718717760184,
+            "med": 0.0,
+            "min": 0,
+            "skew": 5.819810405393185,
+            "stdev": 0.16249920473149626
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 5 Sunday Morning": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 92.91291704342039,
+            "max": 1,
+            "mean": 0.010214233600848976,
+            "med": 0.0,
+            "min": 0,
+            "skew": 9.742326059182188,
+            "stdev": 0.10054801356961887
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 5 Wrecking Ball": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 16.684459003682928,
+            "max": 1,
+            "mean": 0.04621926418931411,
+            "med": 0.0,
+            "min": 0,
+            "skew": 4.322552371421652,
+            "stdev": 0.20995962423073739
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 5 You Make Loving Fun TECH FOCUS": {
+        "grade": "5",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 11.5501188097072,
+            "max": 1,
+            "mean": 0.060659211135588705,
+            "med": 0.0,
+            "min": 0,
+            "skew": 3.681048601921361,
+            "stdev": 0.23870415002675754
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 6 FEMALE Ain_t Nobody TECH FOCUS": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 0.36761851946916924,
+            "max": 1,
+            "mean": 0.19511409309481043,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.5387067685134719,
+            "stdev": 0.3962885107728964
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 6 FEMALE Dog Days Are Over": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 66.63451613949688,
+            "max": 1,
+            "mean": 0.01396251089799477,
+            "med": 0.0,
+            "min": 0,
+            "skew": 8.284595110172695,
+            "stdev": 0.11733524273387821
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 6 FEMALE Gold Lion": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 6 FEMALE Let It Go": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 33.50441149693384,
+            "max": 1,
+            "mean": 0.025989059812337467,
+            "med": 0.0,
+            "min": 0,
+            "skew": 5.958557837005015,
+            "stdev": 0.15910257251976856
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 6 FEMALE Nothing Compares 2 U TECH FOCUS": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 204.78396956035934,
+            "max": 1,
+            "mean": 0.004766917293233083,
+            "med": 0.0,
+            "min": 0,
+            "skew": 14.379985033384399,
+            "stdev": 0.06887810822570953
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 6 FEMALE On _ On TECH FOCUS": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 97.16395427768002,
+            "max": 1,
+            "mean": 0.009789135332321584,
+            "med": 0.0,
+            "min": 0,
+            "skew": 9.958109975175015,
+            "stdev": 0.09845459949523472
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 6 FEMALE Rescue Me": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 6 FEMALE Skyfall": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 59.16766240837791,
+            "max": 1,
+            "mean": 0.015588020452885317,
+            "med": 0.0,
+            "min": 0,
+            "skew": 7.820975796432176,
+            "stdev": 0.12387507445505633
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 6 MALE I Don_t Want To Miss A Thing": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 6 MALE Just the Way You Are": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 67.97200137091248,
+            "max": 1,
+            "mean": 0.013706496465117155,
+            "med": 0.0,
+            "min": 0,
+            "skew": 8.364926859866285,
+            "stdev": 0.11626963670610174
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 6 MALE One": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 282.4151193853334,
+            "max": 1,
+            "mean": 0.0034793303502795602,
+            "med": 0.0,
+            "min": 0,
+            "skew": 16.864611450766755,
+            "stdev": 0.05888314368809791
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 6 MALE Saturday Night_s Alright For Fighting TECH FOCUS": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 8.68106881196888,
+            "max": 1,
+            "mean": 0.07352014319568397,
+            "med": 0.0,
+            "min": 0,
+            "skew": 3.2681904491582,
+            "stdev": 0.26098837472226627
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 6 MALE Take Me To Church TECH FOCUS": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 32.15931313907708,
+            "max": 1,
+            "mean": 0.026931212641602607,
+            "med": 0.0,
+            "min": 0,
+            "skew": 5.844596918443312,
+            "stdev": 0.16188243396754132
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 6 MALE Wake Me Up": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 6 MALE We Are The Champions": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 8.64202287671513,
+            "max": 1,
+            "mean": 0.07373315174000845,
+            "med": 0.0,
+            "min": 0,
+            "skew": 3.2622113476467356,
+            "stdev": 0.26133613235542713
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 6 MALE With A Little Help From My Friends TECH FOCUS": {
+        "grade": "6",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 7 FEMALE Don_t Wanna Fight TECH FOCUS": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 7 FEMALE Feeling Good": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 7 FEMALE Hello": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 23.043781109979204,
+            "max": 1,
+            "mean": 0.035705673844373176,
+            "med": 0.0,
+            "min": 0,
+            "skew": 5.004376195888876,
+            "stdev": 0.18555532517201548
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 7 FEMALE If I Ain_t Got You": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 100.153949883432,
+            "max": 1,
+            "mean": 0.009510734724933011,
+            "med": 0.0,
+            "min": 0,
+            "skew": 10.107123719606479,
+            "stdev": 0.09705813026184343
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 7 FEMALE Jo\u0301ga TECH FOCUS": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 7 FEMALE Saving All My Love For You": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 7.607590670103312,
+            "max": 1,
+            "mean": 0.07986715807379206,
+            "med": 0.0,
+            "min": 0,
+            "skew": 3.0996113740440614,
+            "stdev": 0.2710874307949522
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 7 FEMALE Single Ladies (Put A Ring On It)": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 84.4374364019568,
+            "max": 1,
+            "mean": 0.01118241421888315,
+            "med": 0.0,
+            "min": 0,
+            "skew": 9.297173570605034,
+            "stdev": 0.1051540195671115
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 7 FEMALE Street Life TECH FOCUS": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 73.35629103214171,
+            "max": 1,
+            "mean": 0.012764323340596224,
+            "med": 0.0,
+            "min": 0,
+            "skew": 8.680800137783487,
+            "stdev": 0.11225593699334094
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 7 MALE Billie Jean TECH FOCUS": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 369.6286504994252,
+            "max": 1,
+            "mean": 0.0026693290624068334,
+            "med": 0.0,
+            "min": 0,
+            "skew": 19.27767233094871,
+            "stdev": 0.051596547798892736
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 7 MALE Feel": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 7 MALE I Want To Know What Love Is": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 19.991743864695575,
+            "max": 1,
+            "mean": 0.04008017607294451,
+            "med": 0.0,
+            "min": 0,
+            "skew": 4.689535570255925,
+            "stdev": 0.19614728027404887
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 7 MALE Life On Mars": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 7 MALE Since You Been Gone TECH FOCUS": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 10.173721313954056,
+            "max": 1,
+            "mean": 0.06621282859179872,
+            "med": 0.0,
+            "min": 0,
+            "skew": 3.4890860284541647,
+            "stdev": 0.24865375509264248
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 7 MALE Smells Like Teen Spirit": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 7 MALE Sweet Disposition TECH FOCUS": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 15.789630610429299,
+            "max": 1,
+            "mean": 0.04821840374566151,
+            "med": 0.0,
+            "min": 0,
+            "skew": 4.2177755524007345,
+            "stdev": 0.21422742421520607
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 7 MALE When I Was Your Man": {
+        "grade": "7",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 238.11072227747187,
+            "max": 1,
+            "mean": 0.004113421986327055,
+            "med": 0.0,
+            "min": 0,
+            "skew": 15.495506518906444,
+            "stdev": 0.06400391976972548
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 8 FEMALE Chandelier": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 8 FEMALE Fallin_": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 199.11572674512732,
+            "max": 1,
+            "mean": 0.004899299712284892,
+            "med": 0.0,
+            "min": 0,
+            "skew": 14.181527659075643,
+            "stdev": 0.06982332400146884
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 8 FEMALE I Never Loved A Man (The Way I Love You) TECH FOCUS": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 214.9331391284082,
+            "max": 1,
+            "mean": 0.004546930821695355,
+            "med": 0.0,
+            "min": 0,
+            "skew": 14.728650281964333,
+            "stdev": 0.0672774571591263
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 8 FEMALE No More Drama": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -0.001382452109210952,
+            "max": 1,
+            "mean": 0.2113914016599832,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.4137247072505985,
+            "stdev": 0.4082953305687085
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 8 FEMALE Over The Rainbow": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 8 FEMALE This Woman_s Work TECH FOCUS": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 8 FEMALE Vision Of Love TECH FOCUS": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 241.13548256272688,
+            "max": 1,
+            "mean": 0.004062870431532942,
+            "med": 0.0,
+            "min": 0,
+            "skew": 15.592802267800572,
+            "stdev": 0.06361103296904962
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 8 FEMALE Wasting My Young Years": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 1.2318053286692185,
+            "max": 1,
+            "mean": 0.16575167683105269,
+            "med": 0.0,
+            "min": 0,
+            "skew": 1.7977222612709713,
+            "stdev": 0.3718575781919026
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 8 MALE For Once In My Life": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 21.743717740376653,
+            "max": 1,
+            "mean": 0.03744643121028521,
+            "med": 0.0,
+            "min": 0,
+            "skew": 4.872752583538039,
+            "stdev": 0.18985309057241756
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 8 MALE I_ve Been Loving You Too Long": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 8 MALE It_s A Man_s, Man_s, Man_s World TECH FOCUS": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 16.099683165683107,
+            "max": 1,
+            "mean": 0.0475063729655533,
+            "med": 0.0,
+            "min": 0,
+            "skew": 4.254372241081299,
+            "stdev": 0.21271933972540216
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 8 MALE Lay Me Down TECH FOCUS": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 68.54881498427174,
+            "max": 1,
+            "mean": 0.013598961200265346,
+            "med": 0.0,
+            "min": 0,
+            "skew": 8.399334198867894,
+            "stdev": 0.11581895118908225
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 8 MALE Somebody to Love TECH FOCUS": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 7.7852174913974075,
+            "max": 1,
+            "mean": 0.0787417351232218,
+            "med": 0.0,
+            "min": 0,
+            "skew": 3.128133227884868,
+            "stdev": 0.26933524513699686
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 8 MALE Stairway To Heaven": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 349.33448849355375,
+            "max": 1,
+            "mean": 0.0028222146584978443,
+            "med": 0.0,
+            "min": 0,
+            "skew": 18.743918706971446,
+            "stdev": 0.05304950294695703
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 8 MALE Sweet Child O_ Mine": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": -3.0,
+            "max": 0,
+            "mean": 0.0,
+            "med": 0.0,
+            "min": 0,
+            "skew": 0.0,
+            "stdev": 0.0
+        }
+    },
+    "../voice_and_co/MIDIs/VOCALS Gr 8 MALE Wake Me Up Before You Go-Go": {
+        "grade": "8",
+        "statistics": {
+            "IQR": 0.0,
+            "kurtosis": 151.6130746600864,
+            "max": 1,
+            "mean": 0.006385424957990625,
+            "med": 0.0,
+            "min": 0,
+            "skew": 12.394074175188974,
+            "stdev": 0.07965331949201171
+        }
+    }
+}
